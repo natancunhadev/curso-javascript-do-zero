@@ -3,4 +3,8 @@ let b = 300;
 
 const resultado = a * b;
 
-console.log(resultado);
+console.log(resultado);  
+
+
+
+
